@@ -2,6 +2,7 @@ Sobre el proyecto
 Push_swap es un proyecto de algoritmia simple con el objetivo de ordenar datos enteros utilizando 2 stacks y un conjunto de instrucciones para manipular ambos stacks, ésto hay que hacerlo con el mínimo de instrucciones posibles.
 
 Las instrucciones son:
+
 🔸sa: (swap a) Intercambia los dos primeros elementos del stack a. No hace nada si hay uno o menos elementos.
 
 🔸sb: (swap b) Intercambia los dos primeros elementos del stack b. No hace nada si hay uno o menos elementos.
